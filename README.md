@@ -8,11 +8,11 @@ This prework should be completed before class starts. You can do it over a weeke
 
 Computer Setup
 
-For the purposes of this prework, all you need is a browser; we generally use [Google Chrome](http://www.google.com/chrome/) . For our class, we'll be using [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) for development. We'll be installing these things the day before class during the install party, but it's fine if you've already done so.
+For the purposes of this prework, all you need is a browser; we generally use [Google Chrome](http://www.google.com/chrome/) . For our class, we'll be using [JDK 8 version 8u101](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/) for development. We'll be installing these things the day before class during the install party, but it's fine if you've already done so.
 
 Java
 
-Java will be the main language we work with during the class. Please work through parts one and two of [KTByte Interactive Textbook in Java[(https://www.ktbyte.com/java-tutorial/book). Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java).
+Java will be the main language we work with during the class. Please work through parts one and two of [KTByte Interactive Textbook in Java](https://www.ktbyte.com/java-tutorial/book). Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java).
 
 HTML & CSS
 
