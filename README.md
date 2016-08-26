@@ -22,7 +22,7 @@ Git
 
 Working with Git will be a huge part of this class. Familiarity with it is going to be a requirement almost anywhere you end up working. Its purpose is to store "snapshots" (called commits) of your code, so you can see your progress and revert your changes if necessary. It also makes it easy to push your changes to a server, which acts as a backup of your code and a way to collaborate with other programmers.
 
-Sign up for a [Github account](https://github.com/), as it is the most popular Git host and the one we'll be using throughout the class. Make sure to add a profile picture and your full name, since this will help me learn your name. Then, work through Try [Github](https://try.github.io/), a short course on how to use Git.
+Sign up for a [Github account](https://github.com/), as it is the most popular Git host and the one we'll be using throughout the class. Make sure to add a profile picture and your full name, since this will help me learn your name. Then, work through [Try Github](https://try.github.io/), a short course on how to use Git.
 
 Deliverables
 
